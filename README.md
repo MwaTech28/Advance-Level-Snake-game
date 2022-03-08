@@ -1,6 +1,6 @@
 # Advance-Level-Snake-game!
 ![mwasnakeall](https://user-images.githubusercontent.com/98475826/157339692-41062357-da6a-4813-be99-abcd57dfc423.png)
-This is strategic advanced level snake game coded in java including dodging obstacles and speed changes
+This is a strategic advanced level snake game coded in java including dodging obstacles and speed changes
 
 Open this project in any java IDE neatbeans, eclipse and run the project, if you are experiancing any issues
 then just create a new project on the IDE and name it game, this snake game project by default has the game package header and copy
