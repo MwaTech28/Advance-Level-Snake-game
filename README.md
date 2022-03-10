@@ -7,7 +7,7 @@ Open this project in any java IDE neatbeans, eclipse and run the project, if you
 then just create a new project on the IDE and name it game, this snake game project by default has the game package header and copy
 all the files from the src folder into your game project.
 
-# *Note to be able to use custom images follow the guide below
+# *Note to be able to use custom images with this game follow the guide below
 
 In your IDE (netbeans) go to your project name right click and choose properties and on sources category under source package
 folders click add folder and select your current project on look in then create a reasouce folder name it any
